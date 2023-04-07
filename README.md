@@ -14,4 +14,11 @@ choose name it in select box and restart the game
 
 my script run on Ruin UI and Scout UI, just expand
 
+![image](https://user-images.githubusercontent.com/83491342/230599198-1be5059d-673f-4816-b3d3-e86f93061c56.png)
 
+First: you need make sone new Preset: setup ur skill, apply it, then "Add New preset" (should setup all preset skill ur choice) then close it
+
+Second: open again, just choice with next button, skill bar will change
+
+tip: you can change style like hide/show , left/top with "edit" button in top right "skills"
+![image](https://user-images.githubusercontent.com/83491342/230601111-21088c51-e880-4c8a-a12d-3bfed6a91460.png)
