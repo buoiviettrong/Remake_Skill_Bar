@@ -22,3 +22,5 @@ Second: open again, just choice with next button, skill bar will change
 
 tip: you can change style like hide/show , left/top with "edit" button in top right "skills"
 ![image](https://user-images.githubusercontent.com/83491342/230601111-21088c51-e880-4c8a-a12d-3bfed6a91460.png)
+
+### Remember Put All skill, pet, rune, misc to skill bar 
